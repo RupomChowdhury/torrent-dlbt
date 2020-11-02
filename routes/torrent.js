@@ -12,7 +12,7 @@ const router = express.Router();
 
 if (!token)
   console.log(
-    "Set telegram token env var to start telegram bot. Read docs at https://github.com/patheticGeek/torrent-aio-bot"
+    "Set telegram token env var to start telegram bot. Read docs at https://github.com/RupomChowdhury/torrent-dlbt"
   );
 
 if (site && token) {
