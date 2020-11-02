@@ -1,0 +1,10 @@
+{
+  "name": "torrent-dlbt",
+  "description": "All in one bot for torrenting",
+  "repository": "https://github.com/RupomChowdhury/torrent-dlbt",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+  ]
+}
