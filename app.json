@@ -1,5 +1,5 @@
 {
-  "name": "FileFlix Downloader",
+  "name": "Torrent Downloader",
   "description": "All in one bot for torrenting",
   "repository": "https://github.com/RupomChowdhury/torrent-dlbt",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
