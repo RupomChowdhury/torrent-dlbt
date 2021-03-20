@@ -5,6 +5,6 @@
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
-    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+    { "url": "https://github.com/RupomChowdhury/puppeteer-heroku-buildpack.git" }
   ]
 }
